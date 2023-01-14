@@ -10,4 +10,6 @@ Procrastination, and a sense of unworthyness of my peers.
 
 ## Why overcome that
 
-Because when it comes down to it I am not that stupid and I have been around computers my entire life. This is in my blood, I just need to take up the mantle. 
+Because when it comes down to it I am not that stupid and I have been around computers my entire life. This is in my blood, I just need to take up the mantle.
+
+testing main
